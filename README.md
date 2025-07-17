@@ -1,3 +1,5 @@
+Simple Dashboard with Laravel
+
 <img width="1440" height="778" alt="Ekran Resmi 2025-07-17 14 02 03" src="https://github.com/user-attachments/assets/968cb62e-9d56-43e9-be39-238b7f1192eb" />
 
 
